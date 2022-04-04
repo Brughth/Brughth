@@ -19,7 +19,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brughth" alt="brughth" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/brughthsona" target="blank"><img src="https://img.shields.io/twitter/follow/brughthsona?logo=twitter&style=for-the-badge" alt="brughthsona" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sonacodeur" target="blank"><img src="https://img.shields.io/twitter/follow/sonacodeur?logo=twitter&style=for-the-badge" alt="SonaCodeur" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter**
 
