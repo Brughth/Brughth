@@ -1,51 +1,67 @@
-<h1 align="left">Hi 👋, I'm Olice SONA</h1>
+<!-- 🎨 Modern & Fun GitHub Profile README for Olice SONA -->
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="320" style="max-width: 100%;">
+<h1 align="center">Hey there 👋, I'm <span style="color:#0078ff;">Olice SONA</span></h1>
 
-<p> A passionate Mobile developer from Cameroon. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build. i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</p>
-
-<p align="left">
-<a href="https://twitter.com/brughthsona" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brughthsona"  width="22px" style="max-width: 100%;" /></a>
-  
-<a href="https://linkedin.com/in/sonacodeur" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonacodeur" width="22px" style="max-width: 100%;" /></a>
-  
-<a href="https://fb.com/sonacodeur" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sonacodeur" width="22px" style="max-width: 100%;" /></a>
-  
-<a href="https://discord.gg/8251" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8251" width="22px" style="max-width: 100%;" /></a>
-  
-  <img src="https://komarev.com/ghpvc/?username=brughth&label=Profile%20views&color=0e75b6&style=flat" alt="brughth" />
+<p align="center">
+  <em>🌍 Mobile Developer from Cameroon 🇨🇲 | 💙 Flutter Enthusiast | 🚀 Open-Source Lover</em>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" height="270" alt="coding gif" />
+</p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brughth" alt="brughth" /></a> </p> -->
+---
 
-<p align="left"> <a href="https://twitter.com/sonacodeur" target="blank"><img src="https://img.shields.io/twitter/follow/sonacodeur?logo=twitter&style=for-the-badge" alt="SonaCodeur" /></a> </p>
+### 🧠 About Me
 
-- 🌱 I’m currently learning **Flutter**
+Hi there! I'm **Olice**, a passionate **mobile developer** who loves crafting elegant, high-performance apps.  
+I believe in **clean architecture**, **great user experiences**, and the power of **open-source collaboration**.
 
-- 💬 Ask me about **Android, Flutter**
+- 🌱 Currently exploring **Flutter**, **Firebase**, and **Cloud Architectures**  
+- 💬 Ask me about **Android**, **Flutter**, or how to scale apps efficiently  
+- 📫 Reach me at **brughthsona@gmail.com**  
+- ⚡ Fun fact: *Coffee + Code = Perfect Morning ☕*
 
-- 📫 How to reach me **brughthsona@gmail.com**
+---
 
-- ⚡ Fun fact: **Not very funny**
+### 🌐 Connect With Me
 
+<p align="center">
+  <a href="https://twitter.com/brughthsona" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://linkedin.com/in/sonacodeur" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://fb.com/sonacodeur" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://discord.gg/8251" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-   </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/SonaCodeur"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SonaCodeur" /></a></p><br><br>
+### 🛠️ Tech Stack
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brughth&show_icons=true&locale=en&layout=compact" alt="brughth" /></p> -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,appwrite,mysql,sqlite,git,github" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brughth&show_icons=true&locale=en" alt="brughth" /></p>
+---
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brughth&" alt="brughth" /></p> -->
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brughth&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=brughth&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
+---
+
+### ☕ Support My Work
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/SonaCodeur">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me a Coffee" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=brughth&label=Profile%20Views&color=blue&style=flat-square" alt="Profile views" />
+</p>
